@@ -18,4 +18,4 @@ All you can do is put the name of the city which you can try in input and click 
 If the name of the city doesn't exist you should be inform and try on more time!
 
 # How it looks? 🖼️
-![Weather app picture](https://i.imgur.com/g5bEBXw.png)
+[Weather app picture](https://i.imgur.com/g5bEBXw.png)
