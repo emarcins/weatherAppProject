@@ -1,3 +1,5 @@
+import config from './config.js';
+
 const input = document.querySelector("input");
 const btn = document.querySelector("button");
 
@@ -10,7 +12,7 @@ const temperature = document.querySelector(".temp");
 const humidity = document.querySelector(".humidity");
 
 const apiLink = "https://api.openweathermap.org/data/2.5/weather?q=";
-// const apiKey = api key;
+const apiKey = config.API_KEY;
 const units = "&units=metric";
 let city;
 let url;
